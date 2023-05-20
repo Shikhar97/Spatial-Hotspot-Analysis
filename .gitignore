@@ -211,3 +211,4 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,scala,windows,macos,visualstudiocode,metals
 src/resources/yellow_tripdata_2009-01_point.csv
+src/resources/yellow-trip-sample-100000.csv
